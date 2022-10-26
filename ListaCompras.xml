@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE ListaCompras SYSTEM "ListaCompras.dtd">
+<ListaCompras>
+    <venta>
+        <ventaacredito>
+            <fechafinpago>22-10-2021</fechafinpago>
+            <cantidad>350000</cantidad>
+        </ventaacredito>
+    </venta>
+    <venta>
+        <ventainmediata>
+            <cantidad>800</cantidad>
+            <divisa>dolares</divisa>
+        </ventainmediata>
+    </venta>
+    <venta>
+        <ventaacredito>
+            <cantidad>41000</cantidad>
+        </ventaacredito>
+    </venta>
+</ListaCompras>
